@@ -6,7 +6,7 @@ filelock==3.0.12
 idna==2.10
 lxml==4.6.1
 multitasking==0.0.9
-numpy==1.19.4
+numpy
 pandas==1.1.4
 pipenv==2020.11.15
 python-dateutil==2.8.1
@@ -23,7 +23,6 @@ beautifulsoup4==4.9.3
 pandas-profiling==2.9.0
 streamlit-pandas-profiling==0.0.6
 sklearn==0.0
-numpy==1.9.1
 Keras==2.4.3
 keras-on-lstm==0.8.0
 tensorflow==2.3.0
