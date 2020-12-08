@@ -68,10 +68,10 @@ def main():
     pages = {
         "Home": Home,
         "Index": Index,
-        "Portfolio": Portfolio,
         "Prediction_model": Prediction_model,
         'Statement': Statement,
         "Stock": Stock,
+        'Portfolio': Portfolio,
         "Profit": Profit,
     }
     st.sidebar.title("Companies Analysis")
