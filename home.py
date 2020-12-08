@@ -68,8 +68,8 @@ def main():
     pages = {
         "Home": Home,
         "Index": Index,
-        'Statement': Statement,
         "Stock": Stock,
+        'Statement': Statement,
         'Portfolio': Portfolio,
         "Prediction_model": Prediction_model,
         "Profit": Profit,
